@@ -26,8 +26,8 @@ const Menu = () => {
 	.timeline({
 	 scrollTrigger: {
 		trigger: "#menu",
-		start: "top 80%",
-		end: "bottom 30%",
+		start: "top top",
+		end: "bottom bottom",
 		scrub: true,
 	 },
 	})
